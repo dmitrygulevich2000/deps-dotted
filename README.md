@@ -12,7 +12,7 @@
 
 Установка:
 ```
-go install github.com/dmitrygulevich2000/deps-dotted
+go install github.com/dmitrygulevich2000/deps-dotted@latest
 ```
 
 Пример использования:
